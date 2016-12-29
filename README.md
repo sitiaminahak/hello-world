@@ -1,4 +1,6 @@
 # hello-world
-Just another repository
+
+Hey everybody!
+
 I love anime, babies and Hannah montana!
-I love to sing!
+
